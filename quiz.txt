@@ -1,0 +1,31 @@
+Which of the following statements regarding the equilibrium constant is NOT true?
+When K >> 1, the concentration of products is much greater than the concentrations of reactants at equilibrium.
+When K << 1, the concentration of reactants is much greater than the concentrations of products at equilibrium.
+When K = 1, the concentration of products and reactants at equilibrium are always equal.
+When K = 1, the forward and reverse rate constants are always equal.
+C
+Consider the equilibrium, Cl2(g) + 2 NO(g) produces 2 NOCl(g). When 2.000 M NOCl is placed in a tank at 500.0 K and allowed to come to equilibrium, the equilibrium concentration of Cl2 is 0.979 M. Calculate Kc.
+45.6
+15.2
+2130
+0.000470
+D
+For the chemical equilibrium aA + bB  cC, the value of the equilibrium constant K is 10. What is the value of the equilibrium constant for the reaction 2cC  2aA + 2bB?
+0.1
+0.2
+20
+0.01
+D
+For the equilibrium 2 NOBr(g)  2 NO(g) + Br2(g), Kc = 1.56 x 10-3 at 300 K. Suppose 0.400 M NOBr is placed in a reaction vessel at 300 K. At a given point, the concentration of Br2 is 0.0134 M. Which of the following statements is true?
+Q < K so the reaction will continue to make more products.
+Q > K so the reaction will consume products to make more reactants.
+Q = K so the system is at equilibrium.
+The value of K will decrease until it is equal to Q.
+A
+Consider the equilibrium CH4(g) + H2O(g) + 206 kJ  CO(g) + 3 H2(g). Which of the following disturbances will cause the system to shift to the left to reestablish equilibrium?
+The partial pressure of CH4 increases.
+The partial pressure of CO decreases.
+The volume decreases.
+The temperature increases.
+C
+

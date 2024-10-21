@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>frame4-3.png</file>
+        <file>frame4.png</file>
+        <file>loading.png</file>
+        <file>mascot.png</file>
+        <file>load.png</file>
+        <file>logo22XS.png</file>
+    </qresource>
+</RCC>
