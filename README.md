@@ -14,10 +14,16 @@ a 'question' object. Which is intended to represent one pair of a question/answe
 * Handrew all the visuals that are integrated in this project.
 
 # Relfection 
-Although we could not complete the entire project, due to time-constraints and various challenge, this project was overall very challengeing but highly rewarding.  
+Although we could not complete the entire project, due to time-constraints and various challenge, this project was overall very challengeing but highly rewarding. 
 
 
 # Notes: 
-Slots/Switches for buttons
-Widget Stack to switch between screens. 
-"actual_final.zip" - executable 
+Slots/Switches for buttons\
+Widget Stack to switch between screens.\ 
+"actual_final.zip" - executable
+\
+
+# Demo
+\
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
