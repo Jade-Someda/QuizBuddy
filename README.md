@@ -27,12 +27,12 @@ QFileDialog access local devices file directory
 "actual_final.zip" - executable
 \
 mainwindow.cpp - password verification 
-\
+
 
 
 
 ## Demo
-\
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
