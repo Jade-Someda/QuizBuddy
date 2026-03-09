@@ -22,10 +22,17 @@ Slots/Switches for buttons
 \
 Widget Stack to switch between screens
 \
+QFileDialog access local devices file directory
+\
 "actual_final.zip" - executable
+\
+mainwindow.cpp - password verification 
+\
+
 
 
 ## Demo
 \
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
