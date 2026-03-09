@@ -19,7 +19,7 @@ Although we could not complete the entire project, due to time-constraints and v
 
 ## Notes: 
 Slots/Switches for buttons\
-Widget Stack to switch between screens.\ 
+Widget Stack to switch between screens\ 
 "actual_final.zip" - executable
 
 
