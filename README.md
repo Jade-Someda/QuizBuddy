@@ -1,6 +1,6 @@
-#Fall 2024 - Software Construction Course
+# Fall 2024 - Software Construction Course
 
-#IDE - QT Creator
+# IDE - QT Creator
 
 # Development Process & Challenges: 
 This is an automated quiz maker. This was a group project(4 people total) that was completed in 1 month and we used the SCRUM SDLC method. We had never used QT Creator, we were not familiar with GUI development and 
@@ -20,3 +20,4 @@ Although we could not complete the entire project, due to time-constraints and v
 # Notes: 
 Slots/Switches for buttons
 Widget Stack to switch between screens. 
+"actual_final.zip" - executable 
